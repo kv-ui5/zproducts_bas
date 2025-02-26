@@ -1,0 +1,41 @@
+{
+    "fileName": "id_1737152485557_46_propertyChange",
+    "fileType": "change",
+    "changeType": "propertyChange",
+    "moduleName": "",
+    "reference": "zproductsbas",
+    "packageName": "",
+    "content": {
+        "property": "showFilterConfiguration",
+        "newValue": true
+    },
+    "selector": {
+        "id": "zproductsbas::sap.suite.ui.generic.template.ListReport.view.ListReport::Products--listReportFilter",
+        "idIsLocal": false,
+        "type": "sap.ui.comp.smartfilterbar.SmartFilterBar"
+    },
+    "layer": "CUSTOMER_BASE",
+    "texts": {},
+    "namespace": "apps/zproductsbas/changes/",
+    "projectId": "",
+    "creation": 1737152485557,
+    "originalLanguage": "",
+    "support": {
+        "generator": "changeUtils: SAPFioriTools",
+        "service": "",
+        "user": "",
+        "sapui5Version": " ",
+        "sourceChangeFileName": "",
+        "compositeCommand": ""
+    },
+    "oDataInformation": {},
+    "dependentSelector": {},
+    "validAppVersions": {
+        "from": "0.0.1",
+        "to": "0.0.1",
+        "creation": "0.0.1"
+    },
+    "jsOnly": false,
+    "variantReference": "",
+    "appDescriptorChange": false
+}
